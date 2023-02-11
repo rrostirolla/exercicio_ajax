@@ -8,7 +8,8 @@ Site integrado com a API do Github.
 ### 👨🏻‍💻 Tecnologias utilizadas 
 HTML </br>
 CSS </br>
-AJAX </br>
+JavaScript </br>
+AJAX
 
 </br>
 
